@@ -1,6 +1,6 @@
 # ulogging-py
 
-**GitHub:** https://github.com/s0urce18/ulogging-py
+**GitHub:** https://github.com/s0urcedev/ulogging-py
 
 **PyPi:** https://pypi.org/project/ulogging/
 
